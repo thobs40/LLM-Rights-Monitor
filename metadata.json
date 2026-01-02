@@ -1,0 +1,5 @@
+{
+  "name": "LLM Rights Monitor",
+  "description": "Enterprise-grade observability dashboard for copyright detection systems powered by Vertex AI and Gemini.",
+  "requestFramePermissions": []
+}
